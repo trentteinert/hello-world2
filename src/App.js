@@ -6,6 +6,7 @@ import styled from "styled-components";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 import Model2 from "./components/Model2";
+import home from './home'
 
 function Stand() {
   return (
